@@ -7,3 +7,9 @@
 - Vanilla CSS
 
 [Live Demo Site](https://friendlychat-7d4a6.web.app/)
+
+## Commands
+
+`firebase serve`
+
+`firebase deploy`
