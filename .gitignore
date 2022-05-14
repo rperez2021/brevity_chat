@@ -26,4 +26,4 @@ src/firebase-config.js
 **/.firebaserc
 
 # Package Jsons
-package-lock.json
+
